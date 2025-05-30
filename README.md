@@ -42,6 +42,16 @@ This project is a locally hosted AI-powered health advisor chatbot built using a
 
 ---
 
+## 📦 Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Suennur/ai-health-chatbot.git
+cd ai-health-chatbot
+```
+
+---
+
 ## 🤝 Contact
 - Developed by Suennur Altaş
 - 📫 suennur.altas@gmail.com
