@@ -30,8 +30,8 @@ This project is a locally hosted AI-powered health advisor chatbot built using a
 ---
 
 ## 🧪 Sample Usage
-User: "Karın ağrım var, ne yapmalıyım?"
-Bot: "Bu durumda fazla yağlı veya baharatlı yiyeceklerden kaçınmanız önerilir. Eğer ağrı devam ederse bir doktora başvurun."
+- User: "Karın ağrım var, ne yapmalıyım?"
+- Bot: "Bu durumda fazla yağlı veya baharatlı yiyeceklerden kaçınmanız önerilir. Eğer ağrı devam ederse bir doktora başvurun."
 
 ---
 
@@ -43,6 +43,6 @@ Bot: "Bu durumda fazla yağlı veya baharatlı yiyeceklerden kaçınmanız öner
 ---
 
 ## 🤝 Contact
-Developed by Suennur Altaş
-📫 suennur.altas@gmail.com
-🔗 LinkedIn/suennur-altas000
+- Developed by Suennur Altaş
+- 📫 suennur.altas@gmail.com
+- 🔗 LinkedIn/suennur-altas000
