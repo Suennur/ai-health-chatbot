@@ -28,3 +28,21 @@ This project is a locally hosted AI-powered health advisor chatbot built using a
 | Deployment      | Docker, Docker Compose             |
 
 ---
+
+## 🧪 Sample Usage
+User: "Karın ağrım var, ne yapmalıyım?"
+Bot: "Bu durumda fazla yağlı veya baharatlı yiyeceklerden kaçınmanız önerilir. Eğer ağrı devam ederse bir doktora başvurun."
+
+---
+
+📸 Screenshots
+
+![Ekran görüntüsü 2024-11-26 154606](https://github.com/user-attachments/assets/f0bdbbfc-f521-4117-a101-e983b31ce332)
+
+
+---
+
+## 🤝 Contact
+Developed by Suennur Altaş
+📫 suennur.altas@gmail.com
+🔗 LinkedIn/suennur-altas000
